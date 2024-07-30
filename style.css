@@ -32,3 +32,12 @@
     background-color: #b3b3b3;
     color: #000;
 }
+
+.img{
+    height: 400px;
+    width: 400px;
+    margin: 40px;
+    padding: 20px;
+    border-radius: 50px;
+    box-shadow: 10px 10px 30px 5px #666666;
+}
